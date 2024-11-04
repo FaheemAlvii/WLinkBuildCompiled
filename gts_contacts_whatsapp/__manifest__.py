@@ -1,5 +1,5 @@
 {
-    'name': 'Qr Whatsapp in Contacts app',
+    'name': 'Import Whatsapp Contacts in Odoo',
     'description': 'static/description/index.html',
     'author': 'WLink',
     'license': 'LGPL-3',
