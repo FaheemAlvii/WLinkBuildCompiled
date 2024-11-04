@@ -3,7 +3,7 @@
     'description': "Adds whatsapp messaging functionality to the 'Contacts' app.",
     'author': 'Muhammad Ahmad',
     'license': 'LGPL-3',
-    'version': '17.0.1.0',
+    'version': '16.0.1.0',
     'depends': ['gts_whatsapp', 'contacts', 'sale', 'mail'],
     'data': [
         'security/ir.model.access.csv',

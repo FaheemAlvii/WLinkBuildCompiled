@@ -2,7 +2,7 @@
     'name': 'Whatsapp API Handler',
     'author': 'Muhammad Ahmad',
     'license': 'LGPL-3',
-    'version': '17.0.1.0',
+    'version': '16.0.1.0',
     'depends': ['mail', 'web'],
     'data': [
         'security/ir.model.access.csv',
