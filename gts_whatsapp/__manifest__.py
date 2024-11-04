@@ -1,9 +1,12 @@
 {
-    'name': 'Whatsapp API Handler',
-    'author': 'Muhammad Ahmad',
+    'name': 'WLink QR Whatsapp API Base',
+    'description':'static/description/index.html',
+    'author': 'WLink',
     'license': 'LGPL-3',
     'version': '18.0.1.0',
-    'depends': ['mail', 'web'],
+    'depends': ['mail'],
+    'website':'https://wlink.geektechsol.com',
+    'images': ['static/description/banner_base.png'],
     'data': [
         'security/ir.model.access.csv',
 
