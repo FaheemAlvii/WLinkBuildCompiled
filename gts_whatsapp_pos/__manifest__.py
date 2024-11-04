@@ -1,9 +1,11 @@
 {
-    'name': 'Whatsapp Messaging for POS',
-    'description': 'static/description/index.html',
+    'name': 'Qr Whatsapp POS Receipts',
     'author': 'WLink',
+    'description': 'static/description/index.html',
     'license': 'LGPL-3',
-    'version': '16.0.1.0',
+    'version': '16.0.1.0.0',
+    'website':'https://wlink.geektechsol.com',
+    'images': ['static/description/banner_pos.png',],
     'depends': ['gts_whatsapp', 'gts_contacts_whatsapp', 'point_of_sale', 'account'],
     'data': [
         'security/ir.model.access.csv',
