@@ -1,1 +1,1 @@
-WLINK-Odoo-App
+WLINK Odoo App
